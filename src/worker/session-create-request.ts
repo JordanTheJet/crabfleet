@@ -11,7 +11,7 @@ import {
   type RuntimeCapabilities,
 } from "./session-model.ts";
 
-const defaultInteractiveCommand = "codex --yolo";
+const defaultInteractiveCommand = "acpx zeroclaw";
 
 export type InteractiveSessionCreateRequest = {
   repo?: string;
